@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>منيو مطعمنا</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .menu-section {
+            border: 1px solid #ccc;
+            padding: 20px;
+            margin: 20px;
+        }
+        .menu-item {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>أهلاً بك في مطعمنا</h1>
+    <h2>منيو اليوم</h2>
+
+    <div class="menu-section">
+        <h3>المقبلات</h3>
+        <ul>
+            <li>
+                حمص 1 <br>
+                <img src="https://picsum.photos/200" alt="حمص 1">
+            </li>
+            <li>
+                حمص 2 <br>
+                <img src="https://picsum.photos/200" alt="حمص 2">
+            </li>
+            <li>
+                حمص 3 <br>
+                <img src="https://picsum.photos/200" alt="حمص 3">
+            </li>
+        </ul>
+    </div>
+
+    <div class="menu-section">
+        <h3>الأطباق الرئيسية</h3>
+        <ul>
+            <li>
+                طبق 1 <br>
+                <img src="https://picsum.photos/200" alt="طبق 1">
+            </li>
+            <li>
+                طبق 2 <br>
+                <img src="https://picsum.photos/200" alt="طبق 2">
+            </li>
+            <li>
+                طبق 3 <br>
+                <img src="https://picsum.photos/200" alt="طبق 3">
+            </li>
+        </ul>
+    </div>
+
+    <div class="menu-section">
+        <h3>الحلويات</h3>
+        <ul>
+            <li>
+                حلوى 1 <br>
+                <img src="https://picsum.photos/200" alt="حلوى 1">
+            </li>
+            <li>
+                حلوى 2 <br>
+                <img src="https://picsum.photos/200" alt="حلوى 2">
+            </li>
+            <li>
+                حلوى 3 <br>
+                <img src="https://picsum.photos/200/" alt="حلوى 3">
+            </li>
+        </ul>
+    </div>
+</body>
+</html>
